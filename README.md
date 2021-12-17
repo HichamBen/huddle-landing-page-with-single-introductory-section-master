@@ -10,7 +10,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://hichamben.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ### Built with
 
