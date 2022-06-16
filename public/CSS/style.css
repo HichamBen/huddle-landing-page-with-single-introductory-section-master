@@ -10,12 +10,12 @@
 }
 
 body {
+    width: 100%;
     background-image: url("../images/bg-desktop.svg");
     background-color: var(--violet);
     margin: 0;
     font-family: "Open Sans", sans-serif;
     font-weight: 400;
-    width: 1440px;
 }
 
 h1 {
